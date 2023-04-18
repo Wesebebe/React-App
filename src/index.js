@@ -4,7 +4,7 @@ import App from './components/App';
 // import App from './components/App';
 
 function Greeting () {
-    return <App/>
+    return <App />
 };
 
 ReactDom.render(<Greeting/>, document.getElementById('root'));
